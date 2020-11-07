@@ -58,7 +58,15 @@ How to find vulnerable webcams with the help of Shodan and Metasploit framework.
      $ ./uninstaller.sh
 
 --------------------------------
-     
+
+
+# DISCLAIMER
+
+This video is just for an Instructive reason.<br>
+Any activities or potentially exercises identified with the material contained on this YouTube channel is exclusively your responsibility.<br>
+The abuse of the data on this YouTube divert can bring about criminal allegations brought against the people being referred to.<br>
+The creators and anonymous pro professional <br>
+won't be considered capable in the occasion any criminal allegations be brought against any people abusing the data in this [anonymous pro](https://www.youtube.com/watch?v=B8O0sPSN6xI) genius to violate the law.<br>
      
 # This Script Was Made By @Anonymous Pro YTB <br>
 
