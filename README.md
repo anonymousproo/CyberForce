@@ -62,12 +62,12 @@ How to find vulnerable webcams with the help of Shodan and Metasploit framework.
 --------------------------------
      
      
-#This Script Was Made By @Anonymous Pro YTB
+#This Script Was Made By @Anonymous Pro YTB <br>
 
 #Credit
 
-Author: Mahfuzur Rahman
-Credits to : Anonymous Pro HKR Groups
-YTB: youtube.com/anonymousproo
-facebook: https://web.facebook.com/anonymousproo1
-web: www.anonymousproo.com
+Author: Mahfuzur Rahman <br>
+Credits to : Anonymous Pro HKR Groups <br>
+YTB: https://www.youtube.com/anonymousproo <br>
+facebook: https://web.facebook.com/anonymousproo1 <br>
+web: www.anonymousproo.com <br>
