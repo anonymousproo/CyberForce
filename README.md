@@ -53,9 +53,9 @@ How to find vulnerable webcams with the help of Shodan and Metasploit framework.
      
 > uninstaller
 
-     $ chmod +x uninstaller.sh
+     $ chmod +x .cyberforce.sh
 
-     $ ./uninstaller.sh
+     $ rm cyberforce.sh
 
 --------------------------------
 
