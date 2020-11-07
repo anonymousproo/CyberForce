@@ -44,13 +44,11 @@ How to find vulnerable webcams with the help of Shodan and Metasploit framework.
  
      $ git clone https://github.com/anonymousproo/CyberForce.git
 
-     $ cd cyberforce
+     $ cd CyberForce
      
-     $ chmod +x install.sh && chmod +x cyberforce.sh 
+     $ chmod +x cyberforce.sh 
 	
-     $ ./install.sh or ./cyberforce.sh
-   
-     $ cyberforce
+     $ ./cyberforce.sh
      
      
 > uninstaller
