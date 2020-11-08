@@ -11,7 +11,7 @@ This module uses the Metasploit framework built into Kali Linux to create a back
 * FTP          >>  bruteforce with metasploit
 * SSH          >>  bruteforce with metasploit
 * WordPress    >>  exploiting wordpress website
-* FTP Backdoor >>  VSFTPD v2.3.4 backdoor command execution
+* FTP Backdoor >>  VSFTPD v4.3.4 backdoor command execution
 * IP Cameras   >>  exploit cctv cameras 
 
 <img src="https://github.com/anonymousproo/CyberForce/blob/main/icon/Screenshot%20from%202020-11-07%2019-37-46.png">
